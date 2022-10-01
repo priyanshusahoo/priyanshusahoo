@@ -1,4 +1,4 @@
-- 🔭 I’m currently a pre-final year student with good problem solving skills
+ 🔭 I’m currently a pre-final year student with good problem solving skills
 
 🌱 I’m adept at learning new algorithms.
 
